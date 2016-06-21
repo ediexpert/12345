@@ -18,6 +18,9 @@
 		3B3CED0E1D181B94007AE1EC /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3CED0D1D181B94007AE1EC /* Default-568h@2x.png */; };
 		3B3CED111D181B94007AE1EC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B3CED101D181B94007AE1EC /* ViewController.m */; };
 		3B3CED141D181B94007AE1EC /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B3CED121D181B94007AE1EC /* ViewController.xib */; };
+		3B3CED1C1D18233A007AE1EC /* vipaiOS.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3B3CED1B1D18233A007AE1EC /* vipaiOS.gif */; };
+		3B3CED1E1D182ACB007AE1EC /* FRONT_PAGE.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3CED1D1D182ACB007AE1EC /* FRONT_PAGE.png */; };
+		3B3CED201D1876D1007AE1EC /* locked-padlock.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B3CED1F1D1876D1007AE1EC /* locked-padlock.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,9 @@
 		3B3CED0F1D181B94007AE1EC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3B3CED101D181B94007AE1EC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3B3CED131D181B94007AE1EC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		3B3CED1B1D18233A007AE1EC /* vipaiOS.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = vipaiOS.gif; sourceTree = "<group>"; };
+		3B3CED1D1D182ACB007AE1EC /* FRONT_PAGE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FRONT_PAGE.png; sourceTree = "<group>"; };
+		3B3CED1F1D1876D1007AE1EC /* locked-padlock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "locked-padlock.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,8 +90,11 @@
 			isa = PBXGroup;
 			children = (
 				3B3CED061D181B94007AE1EC /* AppDelegate.h */,
+				3B3CED1B1D18233A007AE1EC /* vipaiOS.gif */,
+				3B3CED1F1D1876D1007AE1EC /* locked-padlock.png */,
 				3B3CED071D181B94007AE1EC /* AppDelegate.m */,
 				3B3CED0F1D181B94007AE1EC /* ViewController.h */,
+				3B3CED1D1D182ACB007AE1EC /* FRONT_PAGE.png */,
 				3B3CED101D181B94007AE1EC /* ViewController.m */,
 				3B3CED121D181B94007AE1EC /* ViewController.xib */,
 				3B3CECFE1D181B94007AE1EC /* Supporting Files */,
@@ -163,6 +172,9 @@
 				3B3CED0C1D181B94007AE1EC /* Default@2x.png in Resources */,
 				3B3CED0E1D181B94007AE1EC /* Default-568h@2x.png in Resources */,
 				3B3CED141D181B94007AE1EC /* ViewController.xib in Resources */,
+				3B3CED1C1D18233A007AE1EC /* vipaiOS.gif in Resources */,
+				3B3CED1E1D182ACB007AE1EC /* FRONT_PAGE.png in Resources */,
+				3B3CED201D1876D1007AE1EC /* locked-padlock.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
